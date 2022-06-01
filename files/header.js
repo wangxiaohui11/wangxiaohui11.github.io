@@ -12,8 +12,8 @@ document.getElementById("header").innerHTML = '\
 			<center>\
 					<a href="mailto:wangxiaohui11@hotmail.com"><img src="./files/img/logos/email.png" height="30"/></a> &nbsp;\
 					<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=BBXxXnkAAAAJ" target="_blank"><img src="./files/img/logos/google_scholar.png" height="30"/></a> &nbsp;\
-					<!--<a href="https://dblp.org/pid/210/5795.html" target="_blank"><img src="./files/img/logos/dblp.png" height="30"/></a> &nbsp;\
-					<a href="https://www.researchgate.net/profile/Xiaohui-Wang-19" target="_blank"><img src="./files/img/logos/researchgate.png" height="30"/></a> &nbsp; -->\
+					<!--<a href="https://dblp.org/pid/210/5795.html" target="_blank"><img src="./files/img/logos/dblp.png" height="30"/></a> &nbsp;-->\
+					<a href="https://www.researchgate.net/profile/Xiaohui-Wang-19" target="_blank"><img src="./files/img/logos/researchgate.png" height="30"/></a> &nbsp;\
 					<!-- <a href="https://github.com/qiusihang" target="_blank"><img src="./files/img/logos/github.png" height="30"/></a> &nbsp; -->\
 					<!-- <a href="https://twitter.com/qiusihang" target="_blank"><img src="./files/img/logos/twitter.png" height="30"/></a>\
 			</center>\
